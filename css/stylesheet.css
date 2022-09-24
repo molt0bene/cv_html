@@ -1,0 +1,28 @@
+body {
+  background: #0e1328;
+  font-family: 'Times New Roman', serif !important;
+  font-size: 22px;
+}
+
+.container {
+  background: whitesmoke;
+}
+
+.wrapper {
+  margin: 10px 20px;
+  padding: 20px;
+}
+
+.divider {
+  flex-grow: 1;
+  border-bottom: 2px dotted grey;
+}
+
+.capture {
+  font-weight: lighter;
+}
+
+.main-image {
+  padding: 2px;
+  border: 2px double gray;
+}
