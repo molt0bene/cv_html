@@ -1,7 +1,7 @@
 body {
   background: #0e1328;
   font-family: 'Times New Roman', serif !important;
-  font-size: 22px;
+  font-size: 22px !important;
 }
 
 .container {
@@ -25,4 +25,9 @@ body {
 .main-image {
   padding: 2px;
   border: 2px double gray;
+}
+
+.contact-info {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
