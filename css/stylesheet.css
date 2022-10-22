@@ -10,12 +10,13 @@ body {
 
 .wrapper {
   margin: 10px 20px;
-  padding: 20px;
+  padding: 35px;
 }
 
 .divider {
   flex-grow: 1;
   border-bottom: 2px dotted grey;
+  margin-bottom: 2%;
 }
 
 .capture {
@@ -25,9 +26,17 @@ body {
 .main-image {
   padding: 2px;
   border: 2px double gray;
+  border-radius: 50%;
 }
 
 .contact-info {
   margin-top: 5px;
   margin-bottom: 5px;
+
+  margin-left: 5%;
 }
+
+.list-points {
+  list-style-type: disc;
+}
+
